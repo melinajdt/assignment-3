@@ -618,16 +618,17 @@ header {
             width: 33.333%;
             border: 1px solid #ececec;
             background: #fff;
-            overflow: hidden;
+            /* overflow: hidden; */
             transition: 0.4s;
 
             &:hover {
 
-                transform: translateY(-10px);
+                transform: translateY(-8px);
 
                 >a {
 
                     >figure {
+                       
 
                         >img {
                             transform: scale(1.1);
@@ -642,12 +643,14 @@ header {
                 >figure {
                     width: 100%;
                     height: 250px;
+                    overflow: hidden;
 
                     >img {
                         width: 100%;
                         height: 100%;
                         object-fit: cover;
                         transition: 0.4s;
+                        overflow: hidden;
 
                     }
                 }
