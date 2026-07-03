@@ -33,7 +33,7 @@ More updates, improvements, and responsive features will be added soon! ✨
 
 🚀 Check out the live version of the project here:
 
-🔗 https://your-live-demo-link.com
+🔗 https://melinajdt.github.io/assignment-3/
 
 > **Note:** This project is still under development, so the live demo may change as new features are added. 🚧✨
 
