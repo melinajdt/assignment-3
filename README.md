@@ -29,9 +29,13 @@ More updates, improvements, and responsive features will be added soon! ✨
 
 
 
-## 💖 live demo
-https://melinajdt.github.io/assignment-3/
+## 🌐 Live Demo
+
+🚀 Check out the live version of the project here:
+
+🔗 https://your-live-demo-link.com
+
+> **Note:** This project is still under development, so the live demo may change as new features are added. 🚧✨
 
 Made ❤️ by **Melina**
 
-⭐ 
