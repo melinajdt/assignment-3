@@ -29,7 +29,8 @@ More updates, improvements, and responsive features will be added soon! ✨
 
 
 
-## 💖 Author
+## 💖 live demo
+https://melinajdt.github.io/assignment-3/
 
 Made ❤️ by **Melina**
 
